@@ -8,7 +8,7 @@ from library.df_response_lib import *
 import json
 
 # make sure this repo is in your $PYTHONPATH
-from Chefbot_NFC.core import dialog_manager
+from Chefbot_NCF.core import dialog_manager
 
 dm = dialog_manager.DialogManager()
 
